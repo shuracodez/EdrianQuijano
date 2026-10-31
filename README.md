@@ -69,6 +69,6 @@ Greetings, traveler. I am **Edrian Quijano**, a sworn knight on a quest through 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer" width="100%"/>
 
-*Banner Artwork:* [Frieren Relaxing — Wallpaper Abyss](https://wall.alphacoders.com/big.php?i=1342229)
+*Banner Artwork:* [Black Hole — Wallpaper Abyss](https://wall.alphacoders.com/big.php?i=1342229)
 
 </div>
