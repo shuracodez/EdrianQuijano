@@ -28,7 +28,7 @@ Greetings, traveler. I am **Edrian Quijano**, a sworn knight on a quest through 
 ## 🗝️ The Grand Armory & Grimoire
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,vscode,github" />
 </p>
 
 ---
