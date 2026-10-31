@@ -48,4 +48,27 @@ Greetings, traveler. I am **Edrian Quijano**, a sworn knight on a quest through 
 - [ ] 🏰 Forge powerful automation constructs for complex tasks
 - [ ] 👁️ Channel AI-powered spirits into functional applications
 - [ ] 📜 Unlock ancient web architecture scrolls
--
+- [ ] 🚩 Raise my banner and share rare artifacts on GitHub
+
+---
+
+## 🕯️ Words of the Oath
+
+<div align="center">
+
+> *"Through dark abysses and long journeys, every step forward tempers the soul into steel."*  
+> *— Stand steadfast, keep exploring, never yield. 🗡️✨*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛡️ *May light guide your path through the dark realm!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer" width="100%"/>
+
+*Banner Artwork:* [Frieren Relaxing — Wallpaper Abyss](https://wall.alphacoders.com/big.php?i=1342229)
+
+</div>
