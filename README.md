@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://images6.alphacoders.com/134/thumb-1920-1342229.png](https://pin.it/6IiSWoLuJ)" width="100%" />
+<img src="https://images6.alphacoders.com/134/thumb-1920-1342229.png" width="100%" />
 
 # ⚔️ ✦ Edrian Quijano ✦ ⚔️
 
